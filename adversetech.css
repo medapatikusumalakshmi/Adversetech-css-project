@@ -1,0 +1,289 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pos5 .pos6{
+    display: inline;
+}
+img[alt="Advertise"]{
+    width: 80px;
+    height: 50px;
+    margin:30px 350px 0px 80px;
+}
+#section1{
+    height: 76px;
+    color: #212529;
+    border: 2px solid lightgrey;
+    
+}
+.pos6 a{
+    margin: 0px 10px 0px 20px;
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #212529;   
+}
+a:hover{
+    color: orangered;
+   
+}
+a button{
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.0rem;
+    padding: 5px 6px;
+}
+.pos6,a{
+    position: relative;
+    left: 50px;
+    top:-15px;
+}
+#section2{
+    width: 471px;
+    height:471px;
+    position: static;
+    margin:80px 0px 0px 100px;
+}
+#section3{
+    position: absolute;
+    display: inline;
+    bottom: 100px;
+}
+img[alt="image1"]{
+    margin-left: 500px;
+    width: 467px;
+    height:467px;
+}
+#pos1{
+    font-weight:750px;
+    font-size:1.750rem ;
+    padding:100px 0px 45px 0px;
+}
+#pos2{
+    font-size: 1.25rem;
+    font-weight: 300px;
+    padding-bottom: 45px;
+}
+input[class="pos3"]{
+    background-color: orangered;
+    color: white;
+    border: none;
+    font-size: 1.25rem;
+    border-radius: 0.5rem;
+   padding:8px 18px;
+}
+#section4{
+    width: 100%;
+    height: 400px;
+    position: static;
+    padding-left: 130px;
+}
+#section5,#section6,#section7{
+    width: 400px;
+    height:280px;
+    position: relative;
+    border: none;
+    border-radius: 10px;
+    transition: 1s;  
+}
+#section5 h4{
+            font-weight: 700px;
+            font-size: 1.275rem;
+            font-weight: bold;
+            padding:35px 0px 15px 0px ;
+}
+#section5{
+    background-color: orangered;
+    color: white;
+    padding: 0px 32px;
+}
+#section5 p{
+    font-weight: 430px ;
+    padding-bottom: 15px;
+}
+.pos4{
+    background-color: white;
+    color: black;
+    font-size: 1.15rem;
+    padding: 8px 12px;
+    border-radius: 0.5rem;
+    border: none;
+}
+#section6 h4{
+    font-weight: 700px;
+    font-size: 1.275rem;
+    font-weight: bold;
+    font-weight: bold;
+    padding:35px 0px 15px 0px;
+}
+#section6{
+background-color:#f3a71d;
+color: white;
+padding: 0px 32px;
+top: -280px;
+left: 420px;
+}
+#section6 p{
+font-weight: 430px ;
+padding-bottom: 15px;
+}
+
+#section7 h4{
+    font-weight: 700px;
+    font-size: 1.275rem;
+    font-weight: bold;
+    padding:35px 0px 15px 0px ;
+}
+#section7{
+background-color:#999a1c;
+color: white;
+padding: 0px 32px;
+top: -560px;
+left: 840px;
+}
+#section7 p{
+font-weight: 430px ;
+padding-bottom: 15px;
+}
+#section5:hover{
+    transform: scale(1.1,1.1);
+}
+#section6:hover{
+    transform: scale(1.1,1.1);
+}
+#section7:hover{
+    transform: scale(1.1,1.1);
+}
+.size{
+    height: 300px;
+    padding: 0px 100px;
+}
+img[alt="engro"],img[alt="ample"],img[alt="capgemini"],img[alt="ctrls"],img[alt="databyte"],img[alt="cognizant"]{
+           height: 250px;
+           width: 250px;
+           margin:1px 0px 240px 0px ;
+}
+.space1{
+    margin-left: 100px;
+}
+
+#section8{
+    background-color: orangered;
+    color: white;
+    height: 150px;
+    padding: 50px 100px 0px 100px;
+}
+
+.size1{
+    font-size: 2rem;
+    font-family: bold;
+    padding-left: 160px;
+}
+ .size2 .size1{
+    display: inline;
+    
+}
+.size3 .size4{
+    display: inline;
+    padding: 0px 15px 0px 5px;
+}
+#id1,#id3{
+    margin-left: 100px;
+    font-weight: bold;
+}
+#id2,#id4{
+    margin-left: 110px;
+    font-weight: bold;
+}
+#id5{
+    margin-left: 130px;
+    font-weight: bold;
+}
+#section9{
+    display: block;
+    height: 70px;
+    padding-top: 10px;
+    border:2px solid lightgrey;
+}
+.size5 .size6{
+    display: inline;
+}
+.pos7{
+    font-weight: bold;
+    padding:0px 720px 0px 150px;
+}
+.pos8{
+     padding:0px 8px 0px 10px;
+}
+
+#section10{
+    height: 600px;
+    border: solid #f8f9fa;
+    background-color: #f8f9fa;
+    position: static;
+    padding:100px 0px 0px 180px;
+}
+#section11{
+    height: 450px;
+    position: relative;
+    width: 250px;
+}
+.sty3{
+    font-weight: 700px;
+    font-size: 1.15rem;
+    padding-bottom: 20px;
+}
+#sty4{
+    font-weight:500px;
+    font-size:1.25rem;
+}
+.sty5{
+    font-weight:500px;
+    font-size:1.05rem; 
+}
+.sty6{
+    padding-top: 10px;
+}
+.sty4,.sty5,.sty6{
+    padding-bottom:10px;
+}
+#section12{
+    width: 250px;
+    top: -450px;
+    left: 450px;
+}
+#section13{
+    width: 250px;
+    top: -900px;
+    left: 900px;
+}
+#section12,#section13{
+    height: 450px;
+    position: relative;
+}
+#section12 p{
+    padding-top: 15px;
+}
+.sty7{
+    padding-left: 45px;
+}
+#section13 i{
+    padding-bottom: 20px;
+}
+#section14{
+    height: 100px;
+    background-color: #ebeced;
+    padding:45px 0px 0px 600px ;
+}
+#spa{
+    color: red;
+}
+#undlin{
+    text-decoration: underline;
+    color: rgba(0, 0, 255, 0.418);
+}
+#section12 a{
+    color: black;
+}
